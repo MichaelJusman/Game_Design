@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/IslandTemple.unity
     guid: 4eaf8f042685abb43a6aaae44aed152a
+  - enabled: 1
+    path: Assets/Scenes/StealthGame.unity
+    guid: a490bffadcea3b2428df791306c7b240
   m_configObjects: {}
